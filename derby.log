@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jul 15 20:01:17 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0164-9f1a-9783-00000dd0b6b8 
+on database directory C:\Users\manue\OneDrive\FHNW\oop2\ProjektMountain\swissmountainsfx-fs18-Liko3\swissmountains with class loader sun.misc.Launcher$AppClassLoader@659e0bfd 
+Loaded from file:/C:/Users/manue/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.14.2.0/7efad40ef52fbb1f08142f07a83b42d29e47d8ce/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=C:\Users\manue\OneDrive\FHNW\oop2\ProjektMountain\swissmountainsfx-fs18-Liko3
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

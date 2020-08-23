@@ -1,0 +1,186 @@
+.root {
+    -fx-padding: 4px;
+    -fx-background-color: #262626;
+}
+
+.toolbar-Background {
+    -fx-background-color: #262626;
+}
+
+/*
+* Top Buttons 
+*/
+.button {
+    -fx-font-family: 'Nunito', sans-serif;
+    -fx-text-fill: #E2E2E2;
+    -fx-background-color: #262626;
+}
+
+.button:hover{
+    -fx-background-color: #505050;
+    -fx-background-radius: 0px;
+}
+
+.button:pressed {
+    -fx-background-color: #D2D2D2;
+    -fx-text-fill: #000000;
+}
+
+
+/*
+* font titel in header
+*/
+#mountain-titel {
+    -fx-font-size: 36pt;
+    -fx-font-family: 'Nunito', sans-serif;
+    -fx-text-fill: #F1F1F1;
+}
+
+/*
+* font under titel in header
+*/
+#mountain-under-titel {
+    -fx-font-size: 15pt;
+    -fx-font-family: 'Lato', sans-serif;
+    -fx-text-fill: #58B8FE;
+}
+
+/*
+* font of label
+*/
+#editor-labels {
+    -fx-font-size: 10pt;
+    -fx-font-family: 'Lato', sans-serif;
+    -fx-text-fill: #F1F1F1;
+}
+
+#editor-textfield {
+    -fx-background-color: #363636;
+    -fx-text-fill: #F1F1F1;
+}
+
+/*
+* Background drop-down
+*/
+.combo-box {
+    -fx-background-color: #363636;
+}
+
+/*
+* font of sort-label
+*/
+#sortby-label {
+    -fx-font-size: 9pt;
+    -fx-font-family: 'Lato', sans-serif;
+    -fx-text-fill: #F1F1F1;
+}
+
+/*
+* Color sort-area
+*/
+#sort-all {
+    -fx-background-color: #444444;
+}
+
+/*
+* Color of header and form -area
+*/
+#split-pane-all {
+    -fx-background-color: #444444;
+}
+
+/*
+* Divider settings
+*/
+.split-pane-divider {
+    -fx-padding: 0 1 0 1;
+    -fx-background-color: #666666;
+    -fx-background-insets: 0;
+}
+
+/*
+* Color of "name" in ListView
+*/
+#list-cell-Name {
+    -fx-font-size: 14pt;
+    -fx-font-family: 'Nunito', sans-serif;
+    -fx-text-fill: #ffffff;
+}
+
+/*
+* Label Height and Region in ListView
+*/
+#list-cell-height-region {
+    -fx-font-size: 10pt;
+    -fx-font-family: 'Lato', sans-serif;
+    -fx-text-fill: #58B8FE;
+}
+
+/*
+* Background color listview
+*/
+.list-view {
+    -fx-background-color: #444444;
+    -fx-control-inner-background: #262626;
+}
+
+/*
+* Selected Cell color
+*/
+.list-cell:filled:selected:focused {
+    -fx-background-color: #505050;
+    -fx-text-fill: #58B8DE;
+}
+
+/*
+* Hover color
+*/
+.list-cell:filled:hover {
+    -fx-background-color: #383838;
+    -fx-text-fill: #ffffff;
+}
+
+/*
+* style and color of scrollbar
+*/
+.scroll-bar {
+    -fx-background-color: rgb(96, 96, 96);
+    -fx-background-radius: 2em;
+}
+
+/*
+* style sort box
+*/
+.combo-box .list-cell 
+{
+    -fx-background: white;
+    -fx-background-color: transparent;
+    -fx-text-fill: #58B8DE;
+}
+
+.combo-box-popup .list-view 
+{
+    -fx-background-color: #363636;
+}    
+
+.combo-box-popup .list-view .list-cell 
+{
+    -fx-background-color: #383838;
+    -fx-text-fill: #58B8DE;
+}
+
+.combo-box-popup .list-view .list-cell:filled:hover 
+{
+    -fx-background-color: #505050;
+    -fx-text-fill: #F1F1F1;
+}
+
+#copyright-label {
+	-fx-text-fill: #c0c0c0;
+}
+
+
+
+
+
+

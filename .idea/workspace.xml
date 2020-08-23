@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a97aa21-8795-47e3-8c18-847b84cdcab9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/oop2/swissmountainsfx/AppStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/oop2/swissmountainsfx/AppStarter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/oop2/swissmountainsfx/model/MountainVM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/oop2/swissmountainsfx/model/MountainVM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/oop2/swissmountainsfx/presentationmodel/MountainApplicationPM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/oop2/swissmountainsfx/presentationmodel/MountainApplicationPM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/oop2/swissmountainsfx/view/MountainApplicationForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/oop2/swissmountainsfx/view/MountainApplicationForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/oop2/swissmountainsfx/view/MountainApplicationToolbar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/oop2/swissmountainsfx/view/MountainApplicationToolbar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/oop2/swissmountainsfx/view/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/fhnw/oop2/swissmountainsfx/view/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/db.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/log/log.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/log/log.ctrl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/log/log1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/log/log1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/log/logmirror.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/log/logmirror.ctrl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c10.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c10.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c101.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c101.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c111.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c111.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c121.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c121.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c130.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c130.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c141.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c141.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c150.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c150.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c161.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c161.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c180.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c180.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c1a1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c1a1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c1b1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c1b1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c20.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c20.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c230.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c230.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c241.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c241.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c31.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c31.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c380.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c380.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c391.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c391.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c3a1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c3a1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c3b1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c3b1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c400.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c400.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c41.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c41.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c411.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c411.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c421.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c421.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c490.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c490.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c4a1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c4a1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c51.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c51.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c60.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c60.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c71.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c71.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c81.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c81.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/c90.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/c90.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/ca1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/ca1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/cc0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/cc0.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/ce1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/ce1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/seg0/cf0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/seg0/cf0.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissmountains/service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/swissmountains/service.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-3" />
+    <option name="y" value="-3" />
+    <option name="width" value="647" />
+    <option name="height" value="347" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="swissmountainsfx-fs18-Liko3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swissmountainsfx-fs18-Liko3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="swissmountainsfx-fs18-Liko3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swissmountainsfx-fs18-Liko3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="swissmountains" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../a2-2Ib-fs17-Liko3" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a97aa21-8795-47e3-8c18-847b84cdcab9" name="Default Changelist" comment="" />
+      <created>1562742145440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562742145440</updated>
+      <workItem from="1562742149738" duration="747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="747000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
