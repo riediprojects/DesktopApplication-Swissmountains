@@ -1,7 +1,7 @@
 # Swissmountains (Java und JavaFX Management-Software)
 
 ## Applikation
-Während dem 2. Semester (Bachelor in Informatik, iCompetence) realisierten wir eine Management-Software für Schweizer Berge auf Basis von JavaFX. 
+Während dem 2. Semester (Bachelor in Informatik, iCompetence) setzten wir eine kleine Management-Software für Berge in der Schweiz auf Basis von JavaFX um. 
 
 ![Screenshot Swissmoutain Allication](Screenshot.jpg)
 
