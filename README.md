@@ -5,6 +5,11 @@ Während dem 2. Semester (Bachelor in Informatik, iCompetence) setzten wir eine 
 
 ![Screenshot Swissmoutain Allication](Screenshot.jpg)
 
+## Technologien
+- Java
+- Javafx
+- Intelij
+
 ## Demo Video
 https://youtu.be/mDUd6J-GjqQ
 
