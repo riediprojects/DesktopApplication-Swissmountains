@@ -1,4 +1,4 @@
-# Swissmountains (Java und JavaFX Management-Software)
+# Swissmountains (Management-Software)
 
 ## Ziel
 Während dem 2. Semester (Bachelor in Informatik, iCompetence) setzten wir eine kleine Software zur Verwaltung der schweizer Bergen auf Basis von JavaFX um. 
