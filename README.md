@@ -1,7 +1,7 @@
 # Swissmountains (Management-Software)
 
 ## Ziel
-Während dem 2. Semester (Bachelor in Informatik, iCompetence) setzten wir eine kleine Software zur Verwaltung der schweizer Bergen auf Basis von JavaFX um. 
+Im 2. Semester (Bachelor in Informatik, iCompetence, Modul: Objekt Orientierte Programmierung 2), setzten wir eine kleine Software zur Verwaltung von schweizer Bergen auf Basis von Java und JavaFX um. 
 
 ![Screenshot Swissmoutain Allication](Screenshot.jpg)
 
